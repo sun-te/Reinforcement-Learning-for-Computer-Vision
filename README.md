@@ -3,7 +3,9 @@
 Summarize some high light papers around the application of deep reinforcement learning in computer vision domain. The main reference for this survey:
 
 [A tutorial during CVPR 2019](http://ivg.au.tsinghua.edu.cn/DRLCV/)
+
 [A simple Summarization of papers from Github](https://github.com/YapengTian/Reinforcement-learning-in-computer-vision)
+
 [Zhihu](https://zhuanlan.zhihu.com/p/51202503)
 
 ## Object localization and detection
